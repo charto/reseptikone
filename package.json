@@ -1,0 +1,14 @@
+{
+  "name": "reseptikone",
+  "version": "1.0.0",
+  "description": "reseptikone",
+  "main": "dist/index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.2.1"
+  }
+}
